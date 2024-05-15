@@ -4,7 +4,7 @@
 Budget Tracker Application
 
 1.) Adding Income
-When the program starts, the main menu is displayed:
+
 Budget Tracker Menu:
 1. Add Income
 2. Add Expense
